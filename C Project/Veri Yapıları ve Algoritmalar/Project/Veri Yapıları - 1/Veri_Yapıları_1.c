@@ -310,3 +310,4 @@ void deleteAllNodes(){
 	head=NULL; // delete head info .
 	printf("----- All Nodes Deleted Successfully -----\n");
 }
+
